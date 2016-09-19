@@ -1,0 +1,12 @@
+# dependencies
+node_modules
+
+# production
+dist
+bower_components
+
+# misc
+.DS_Store
+npm-debug.log
+bower.json
+
